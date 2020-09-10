@@ -1,4 +1,4 @@
 Name: Umang
-Age: 34
+Age: 33
 Salary: XXX
-Company: SEARS
+Company: CAPITA
